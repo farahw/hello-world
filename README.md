@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Hi world! I love tigers, unicorns, and bubbles.
+I love tigers, unicorns, and bubbles.
